@@ -1,0 +1,25 @@
+{
+  "name": "signalk-network",
+  "version": "0.0.1",
+  "description": "Signal K Network Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itemir/signalk-netwok.git"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "Ilker Temir",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/itemir/signalk-netwok/issues"
+  },
+  "homepage": "https://github.com/itemir/signalk-netwok#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
